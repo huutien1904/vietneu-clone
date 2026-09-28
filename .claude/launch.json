@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "vieneu-web",
+      "runtimeExecutable": "uv",
+      "runtimeArgs": ["run", "vieneu-web"],
+      "port": 7860
+    }
+  ]
+}
